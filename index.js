@@ -15,7 +15,7 @@ const config = new Configuration({
 const openai = new OpenAIApi(config);
 
 app.get('/', (req, res) => {
-    res.send('We go Get!')
+    res.sendFile(__dirname + '/index.html')
 })
 
 app.post('/message', (req, res) => {
