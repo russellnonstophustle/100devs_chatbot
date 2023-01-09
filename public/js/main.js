@@ -31,7 +31,7 @@ function sendMessage(){
         }, 250);
 
 
-fetch('http://localhost:3000/message', {
+fetch('/message', {
     method: 'POST',
     headers: {
         accept: 'application.json',
