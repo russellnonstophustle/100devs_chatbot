@@ -1,3 +1,4 @@
+const path = require('path')
 const {Configuration, OpenAIApi} = require('openai');
 const express = require('express');
 const bodyParser = require('body-parser');
@@ -15,7 +16,7 @@ const config = new Configuration({
 const openai = new OpenAIApi(config);
 
 app.get('/', (req, res) => {
-    res.sendFile(__dirname + '/index.html')
+    res.sendFile(path.resolve(__dirname, '../index.html'))
 })
 
 app.post('/message', (req, res) => {
