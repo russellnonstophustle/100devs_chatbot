@@ -42,7 +42,4 @@ app.post('/message', (req, res) => {
     });
 });
 
-// server running
-app.listen(process.env.PORT, () => {
-    console.log("Server is running, you better catch it!");
-  });
+app.listen(3000, () => console.log('Listening on port 3000'));
