@@ -1,5 +1,6 @@
 ﻿# 100devs_chatbot
-
+Go to <a href="https://openai.com/api/">OpenAi.com</a> to sign up and get an API key
+<br>
 create a .env file with your openai api key like this API_TOKEN="your api token"
 
 # How to change the tone of your ChatBot
