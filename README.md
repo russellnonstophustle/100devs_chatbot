@@ -32,6 +32,7 @@ This will be a bot that is geared toward helping engineers at 100Devs
 
 # Open your terminal
 First enter
+<br>
 npm install
 <br>
 after installation enter
@@ -40,5 +41,6 @@ npm start
 
 # Now test it out
 Go to your localhost:3000
-
+<br>
+Have fun playing with your Bot! Give a star to the repo if you enjoyed!
 
