@@ -13,6 +13,22 @@ by storing your API key in a .env file you protect your API key from being "borr
 <br>
 **and cd (wherever you saved the folder) in the terminal to change directory to where you saved and cd into the folder**
 
+# Open your terminal
+First enter
+<br>
+**npm install**
+<br>
+after installation enter
+<br>
+**npm start**
+<br>
+your terminal should now say Listening at http://localhost:3000/
+
+# Now test it out
+Go to your localhost:3000
+<br>
+Have fun playing with your Bot! Give a star to the repo if you enjoyed!
+
 # How to change the tone of your ChatBot
 in the server.js file, line 23 you can describe how you would like your bot to act in the prompt 
 for example:
@@ -43,20 +59,4 @@ This will obvi have your bot act super chill like Snoop.. or
         
 <br>
 This will be a bot that is geared toward helping engineers at 100Devs
-
-# Open your terminal
-First enter
-<br>
-**npm install**
-<br>
-after installation enter
-<br>
-**npm start**
-<br>
-your terminal should now say Listening at http://localhost:3000/
-
-# Now test it out
-Go to your localhost:3000
-<br>
-Have fun playing with your Bot! Give a star to the repo if you enjoyed!
 
