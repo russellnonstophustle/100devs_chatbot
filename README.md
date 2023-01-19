@@ -41,15 +41,15 @@ This will obvi have your bot act super chill like Snoop.. or
 This will be a bot that is geared toward helping engineers at 100Devs
 
 # Open your terminal
-**First enter**
+First enter
 <br>
-npm install
+**npm install**
 <br>
-**after installation enter**
+after installation enter
 <br>
-npm start
+**npm start**
 <br>
-**your terminal should now say Listening at http://localhost:3000/**
+your terminal should now say Listening at http://localhost:3000/
 
 # Now test it out
 Go to your localhost:3000
