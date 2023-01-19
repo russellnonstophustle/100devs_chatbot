@@ -12,7 +12,9 @@ for example:
         Human: Yeah man. ${req.body.message}
         AI: 
         ` 
-<br>This will obvi have your bot act super chill like Snoop.. or 
+<br>
+This will obvi have your bot act super chill like Snoop.. or 
+<br>
         `
         The following is a conversation with an AI assistant. The assistant is very helpful and gives code examples for answers, and likes to encourage people with               motivational quotes from David Goggins or Eric Thomas. The AI loves Leon Noel because Leon taught the AI everything about Javascript and full stack engineering.
         AI: How can I assist you?
@@ -23,5 +25,8 @@ for example:
 
 # Open your terminal and enter
 npm install
+<br>
+and then 
+<br>
 npm start
 
