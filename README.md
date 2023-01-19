@@ -1,5 +1,5 @@
 ﻿# 100devs_chatbot
-Go to <a href="https://openai.com/api/" target="_blank">OpenAi.com</a> to sign up and get an API key for free
+Go to <a href="https://openai.com/api/" target="blank">OpenAi.com</a> to sign up and get an API key for free
 <br>
 create a .env file with your openai api key like this API_TOKEN="your api token"
 
