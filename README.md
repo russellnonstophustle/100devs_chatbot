@@ -1,5 +1,5 @@
 ﻿# 100devs_chatbot
-Go to <a href="https://openai.com/api/" target="blank">OpenAi.com</a> to sign up and get an API key for free
+Go to <a href="https://openai.com/api/" target="_blank" rel="noreferrer noopener">OpenAI</a> to sign up and get an API key for free
 <br>
 create a .env file with your openai api key like this API_TOKEN="your api token"
 
@@ -39,6 +39,8 @@ npm install
 after installation enter
 <br>
 npm start
+<br>
+your terminal should now say Listening at http://localhost:3000/
 
 # Now test it out
 Go to your localhost:3000
