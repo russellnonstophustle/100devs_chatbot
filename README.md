@@ -23,10 +23,15 @@ This will obvi have your bot act super chill like Snoop.. or
         `
 <br>This will be a bot that is geared toward helping engineers at 100Devs
 
-# Open your terminal and enter
+# Open your terminal
+First enter
+<br>
 npm install
 <br>
-and then 
+after installation enter
 <br>
 npm start
+
+# Now test it out
+Go to your localhost:3000
 
