@@ -5,7 +5,7 @@ To open in a new page CTRL+click (on Windows and Linux) or CMD+click (on MacOS) 
 <br>
 Go to <a href="https://openai.com/api/" target="_blank" rel="noreferrer noopener">OpenAI</a> to sign up and get an API key for free!
 <br>
-create a .env file and add your openai api key like this API_TOKEN="your api token" 
+**create a .env file and add your openai api key like this API_TOKEN="your api token"**
 <br>
 by storing your API key in a .env file you protect your API key from being "borrowed" or stolen
 
